@@ -1,5 +1,7 @@
 <script>
-	import '../app.css';
+	import 'chota';
 </script>
 
-<slot />
+<div>
+	<slot />
+</div>
